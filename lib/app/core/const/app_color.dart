@@ -9,5 +9,7 @@ class AppColor {
   static const secondaryGrey = Color(0XFF48D49E);
   static const secondaryOrange = Color(0XFFFF8266); // Orange
 
-  
+  // background colors
+  static const backgroundNavbar = Color(0XFF121212); // White
+  static const background = Color(0XFF070707);
 }
